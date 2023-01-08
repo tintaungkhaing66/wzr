@@ -10,6 +10,10 @@
          "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/SG-CLOUDPLAY-FREE01.ovpn"
       },
 {
+       "name": "SG1-Play-FREE",
+         "url": "https://raw.githubusercontent.com/tintaungkhaing66/wzr/main/sg1.ovpn"
+      },
+{
        "name": "SG-DTAC-FREE3",
          "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/SG-CLOUDPLAY-FREE02.ovpn"
       }
@@ -24,6 +28,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 1 ",
-   "version": 1
+"title":"Config version - 2 ",
+   "version": 2
 }
